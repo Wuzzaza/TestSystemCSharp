@@ -1,0 +1,9 @@
+c:\users\guest.tula\documents\visual studio 2015\Projects\MyTestSystem\MyTestSystem\bin\Debug\MyTestSystem.exe.config
+c:\users\guest.tula\documents\visual studio 2015\Projects\MyTestSystem\MyTestSystem\bin\Debug\MyTestSystem.exe
+c:\users\guest.tula\documents\visual studio 2015\Projects\MyTestSystem\MyTestSystem\bin\Debug\MyTestSystem.pdb
+c:\users\guest.tula\documents\visual studio 2015\Projects\MyTestSystem\MyTestSystem\obj\Debug\MyTestSystem.Properties.Resources.resources
+c:\users\guest.tula\documents\visual studio 2015\Projects\MyTestSystem\MyTestSystem\obj\Debug\MyTestSystem.csproj.GenerateResource.Cache
+c:\users\guest.tula\documents\visual studio 2015\Projects\MyTestSystem\MyTestSystem\obj\Debug\MyTestSystem.exe
+c:\users\guest.tula\documents\visual studio 2015\Projects\MyTestSystem\MyTestSystem\obj\Debug\MyTestSystem.pdb
+c:\users\guest.tula\documents\visual studio 2015\Projects\MyTestSystem\MyTestSystem\obj\Debug\MyTestSystem.Forms.LoginForm.resources
+c:\users\guest.tula\documents\visual studio 2015\Projects\MyTestSystem\MyTestSystem\obj\Debug\MyTestSystem.csprojResolveAssemblyReference.cache
