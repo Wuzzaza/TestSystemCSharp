@@ -12,11 +12,36 @@ namespace MyTestSystem
 {
     public partial class Form1 : Form
     {
+        UsersDataBase userDataBase;
         public Form1()
         {
             InitializeComponent();
+            userDataBase = UsersDataBase.getInstance();
             Forms.LoginForm lf = new Forms.LoginForm();
-            lf.ShowDialog();
+            this.CenterToScreen();
+            lf.ShowDialog(this);
+
+
+        }
+
+        public void init()
+        {
+                editTestsToolStripMenuItem.Enabled = userDataBase.currentUserIsAdmin();
+                editUsersToolStripMenuItem.Enabled = userDataBase.currentUserIsAdmin();
+        }
+
+        private void exitToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void logOutToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Forms.LoginForm lf = new Forms.LoginForm();
+            lf.ShowDialog(this);
+
         }
     }
+
+    
 }

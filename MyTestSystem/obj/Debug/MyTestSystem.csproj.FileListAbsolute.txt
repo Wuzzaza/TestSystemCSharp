@@ -7,3 +7,13 @@ c:\users\guest.tula\documents\visual studio 2015\Projects\MyTestSystem\MyTestSys
 c:\users\guest.tula\documents\visual studio 2015\Projects\MyTestSystem\MyTestSystem\obj\Debug\MyTestSystem.pdb
 c:\users\guest.tula\documents\visual studio 2015\Projects\MyTestSystem\MyTestSystem\obj\Debug\MyTestSystem.Forms.LoginForm.resources
 c:\users\guest.tula\documents\visual studio 2015\Projects\MyTestSystem\MyTestSystem\obj\Debug\MyTestSystem.csprojResolveAssemblyReference.cache
+C:\Users\guest.TULA\Documents\Visual Studio 2015\Projects\MyTestSystem\TestSystemCSharp\MyTestSystem\bin\Debug\MyTestSystem.exe.config
+C:\Users\guest.TULA\Documents\Visual Studio 2015\Projects\MyTestSystem\TestSystemCSharp\MyTestSystem\obj\Debug\MyTestSystem.exe
+C:\Users\guest.TULA\Documents\Visual Studio 2015\Projects\MyTestSystem\TestSystemCSharp\MyTestSystem\obj\Debug\MyTestSystem.pdb
+C:\Users\guest.TULA\Documents\Visual Studio 2015\Projects\MyTestSystem\TestSystemCSharp\MyTestSystem\bin\Debug\MyTestSystem.exe
+C:\Users\guest.TULA\Documents\Visual Studio 2015\Projects\MyTestSystem\TestSystemCSharp\MyTestSystem\bin\Debug\MyTestSystem.pdb
+C:\Users\guest.TULA\Documents\Visual Studio 2015\Projects\MyTestSystem\TestSystemCSharp\MyTestSystem\obj\Debug\MyTestSystem.csprojResolveAssemblyReference.cache
+C:\Users\guest.TULA\Documents\Visual Studio 2015\Projects\MyTestSystem\TestSystemCSharp\MyTestSystem\obj\Debug\MyTestSystem.Forms.LoginForm.resources
+C:\Users\guest.TULA\Documents\Visual Studio 2015\Projects\MyTestSystem\TestSystemCSharp\MyTestSystem\obj\Debug\MyTestSystem.Properties.Resources.resources
+C:\Users\guest.TULA\Documents\Visual Studio 2015\Projects\MyTestSystem\TestSystemCSharp\MyTestSystem\obj\Debug\MyTestSystem.csproj.GenerateResource.Cache
+C:\Users\guest.TULA\Documents\Visual Studio 2015\Projects\MyTestSystem\TestSystemCSharp\MyTestSystem\obj\Debug\MyTestSystem.Form1.resources

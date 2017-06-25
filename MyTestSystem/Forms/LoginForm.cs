@@ -12,14 +12,28 @@ namespace MyTestSystem.Forms
 {
     public partial class LoginForm : Form
     {
+        UsersDataBase userDatabase;
+
         public LoginForm()
         {
             InitializeComponent();
+            this.CenterToScreen();
+            textBox1.Select();
+            userDatabase = UsersDataBase.getInstance();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             Application.Exit();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (userDatabase.logIn(textBox1.Text, textBox2.Text))
+            {
+                (Owner as Form1).init();
+                this.Close();
+            }
         }
     }
 }
