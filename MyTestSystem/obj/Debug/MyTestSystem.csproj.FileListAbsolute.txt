@@ -17,3 +17,14 @@ C:\Users\guest.TULA\Documents\Visual Studio 2015\Projects\MyTestSystem\TestSyste
 C:\Users\guest.TULA\Documents\Visual Studio 2015\Projects\MyTestSystem\TestSystemCSharp\MyTestSystem\obj\Debug\MyTestSystem.Properties.Resources.resources
 C:\Users\guest.TULA\Documents\Visual Studio 2015\Projects\MyTestSystem\TestSystemCSharp\MyTestSystem\obj\Debug\MyTestSystem.csproj.GenerateResource.Cache
 C:\Users\guest.TULA\Documents\Visual Studio 2015\Projects\MyTestSystem\TestSystemCSharp\MyTestSystem\obj\Debug\MyTestSystem.Form1.resources
+D:\Docs\GIT\TestSystemCSharp\MyTestSystem\bin\Debug\MyTestSystem.exe.config
+D:\Docs\GIT\TestSystemCSharp\MyTestSystem\obj\Debug\MyTestSystem.exe
+D:\Docs\GIT\TestSystemCSharp\MyTestSystem\obj\Debug\MyTestSystem.pdb
+D:\Docs\GIT\TestSystemCSharp\MyTestSystem\bin\Debug\MyTestSystem.exe
+D:\Docs\GIT\TestSystemCSharp\MyTestSystem\bin\Debug\MyTestSystem.pdb
+D:\Docs\GIT\TestSystemCSharp\MyTestSystem\obj\Debug\MyTestSystem.csprojResolveAssemblyReference.cache
+D:\Docs\GIT\TestSystemCSharp\MyTestSystem\obj\Debug\MyTestSystem.Forms.LoginForm.resources
+D:\Docs\GIT\TestSystemCSharp\MyTestSystem\obj\Debug\MyTestSystem.Properties.Resources.resources
+D:\Docs\GIT\TestSystemCSharp\MyTestSystem\obj\Debug\MyTestSystem.csproj.GenerateResource.Cache
+D:\Docs\GIT\TestSystemCSharp\MyTestSystem\obj\Debug\MyTestSystem.TestSystemMain.resources
+D:\Docs\GIT\TestSystemCSharp\MyTestSystem\obj\Debug\MyTestSystem.Forms.UserEditor.resources

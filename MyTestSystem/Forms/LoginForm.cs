@@ -29,11 +29,31 @@ namespace MyTestSystem.Forms
 
         private void button1_Click(object sender, EventArgs e)
         {
+            tryToLogIn();
+        }
+
+        private void tryToLogIn()
+        {
             if (userDatabase.logIn(textBox1.Text, textBox2.Text))
-            {
-                (Owner as Form1).init();
-                this.Close();
-            }
+                {
+                    (Owner as TestSystemMain).init();
+                    this.Close();
+                }
+        }
+
+        private void LoginForm_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter) tryToLogIn();
+        }
+
+        private void textBox1_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter) tryToLogIn();
+        }
+
+        private void textBox2_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter) tryToLogIn();
         }
     }
 }

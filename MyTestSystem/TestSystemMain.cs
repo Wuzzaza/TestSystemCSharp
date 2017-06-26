@@ -10,10 +10,10 @@ using System.Windows.Forms;
 
 namespace MyTestSystem
 {
-    public partial class Form1 : Form
+    public partial class TestSystemMain : Form
     {
         UsersDataBase userDataBase;
-        public Form1()
+        public TestSystemMain()
         {
             InitializeComponent();
             userDataBase = UsersDataBase.getInstance();
@@ -40,6 +40,12 @@ namespace MyTestSystem
             Forms.LoginForm lf = new Forms.LoginForm();
             lf.ShowDialog(this);
 
+        }
+
+        private void editUsersToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Forms.UserEditor userEditor = new Forms.UserEditor();
+            userEditor.ShowDialog();
         }
     }
 

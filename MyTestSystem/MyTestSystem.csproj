@@ -49,11 +49,11 @@
     <Compile Include="Classes\TestStorage.cs" />
     <Compile Include="Classes\TestUnit.cs" />
     <Compile Include="Classes\UsersDataBase.cs" />
-    <Compile Include="Form1.cs">
+    <Compile Include="TestSystemMain.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="TestSystemMain.Designer.cs">
+      <DependentUpon>TestSystemMain.cs</DependentUpon>
     </Compile>
     <Compile Include="Forms\LoginForm.cs">
       <SubType>Form</SubType>
@@ -61,13 +61,22 @@
     <Compile Include="Forms\LoginForm.Designer.cs">
       <DependentUpon>LoginForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="Forms\UserEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\UserEditor.Designer.cs">
+      <DependentUpon>UserEditor.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="TestSystemMain.resx">
+      <DependentUpon>TestSystemMain.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\LoginForm.resx">
       <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\UserEditor.resx">
+      <DependentUpon>UserEditor.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
